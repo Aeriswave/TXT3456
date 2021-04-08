@@ -113,7 +113,7 @@
 https://ru.wikipedia.org/wiki/Markdown
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
-/// Markdown разметка, скопировано из публичных ресурсов   
+/// Примеры использования Markdown-разметки (скопировано из публичных ресурсов)   
 # Заголовок 1
 ## Заголовок 2
 ### Заголовок 3
